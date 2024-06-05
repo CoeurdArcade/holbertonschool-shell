@@ -1,5 +1,5 @@
 #!/bin/bash
-# YOUR CODE STARTS HERE
+wget url de page
 {
   "id": 1,
   "name": "Leanne Graham",
