@@ -22,3 +22,4 @@
     "catchPhrase": "Multi-layered client-server neural-net",
     "bs": "harness real-time e-markets"
   }
+POUR HUGO bash 1-restful_api.sh
