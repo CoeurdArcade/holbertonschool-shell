@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -v /workspace/holbertondavid/holbertonschool-shell/basics/*.html /tmp/test_html
+cp -v *.html /workspace/holbertondavid/holbertonschool-shell/basics workspace/holbertondavid/holbertonschool-shell
