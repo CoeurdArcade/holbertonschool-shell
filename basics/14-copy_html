@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -rf *.html /workspace/holbertondavid/holbertonschool-shell
+parent_dir=$(dirname $(pwd)); find . -type f -name "*.html" | while read html_file; do if [ ! -e "$parent_dir/$html_file" ] || [ $(stat -c %Y "$html_file") -gt $(stat -c %Y "$parent_dir/$html_file") ]; then cp -v "$html_file" "$parent_dir"; fi; done
