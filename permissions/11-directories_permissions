@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R ugo+x /Users/davidvaucheret/Desktop/ubuntu/holbertondavid/holbertonschool-shell/permissions 
+chmod -R ugo+x */ 
