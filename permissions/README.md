@@ -1,3 +1,16 @@
+Which command should I use for changing a file permission?
+chmod
+Which command should I use for changing a file owner?
+chown
+What is the permission value for a file without any restriction?
+777
+What is the permission value for a file read only for the group owner?
+040
+What is the numerical value for the rwx------ permission?
+544
+What is the numerical value for the ----w---x permission?
+021
+
 SHELL permissions
 
     chmod
