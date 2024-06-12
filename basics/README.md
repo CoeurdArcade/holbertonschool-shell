@@ -1,3 +1,13 @@
+What command would you use to list files on Linux?
+ls
+What does LTS stand for?
+Long Term Support
+How do you change directory on Linux?
+cd
+What does RTFM stand for?
+Read The F** Manual
+
+
 Commands to learn
 cd
 ls
