@@ -1,0 +1,7 @@
+Why do i do the command ls *.c on my shell ?
+
+
+(L minor and not 1) ls is a basic command in shell to list files or directories. If you are in a particulaer directory, pushing the command ls will give you what is on your directory but not specially the hidden files. If you want to search specific files without watching the whole list of what is in your directory, you have to specify what you want to look. So in a case like listing files that end with .jpeg you have to write the command ls *.jpeg
+
+Therefore, if you write ls *.c you will have the list of all that ends with .c
+
